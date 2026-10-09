@@ -1,15 +1,15 @@
 # m365hunt
 
 ```text
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠤⠒⠋⠉⠉⠉⠉⠑⠠⢄
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡊m365hunt⠈⡆
-⠀⠀⠀⢀⣰⣿⣿⣿⣿⣷⣆⠀⠀⠀⠑⢆⠀⠀⠀⠀⠀⡸⠀⠀
-⠀⠀⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⠀⣰⠏⠑⠂⠂⠒⠂⠀⠀⠀
-⠀⠀⣿⣿⣿⣿⣿⠿⢿⣛⣫⣭⣶⡶⠶⠤⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⢛⣻⣭⣽⡶⢞⣛⣯⣭⣷⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⢀⠴⠟⣫⠅⣤⣥⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠘⢷⣝⢻⣿⣿⣿⣿⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⣶⣬⣜⠻⠿⣿⠿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠤⠒⠋⠉⠉⠉⠉⠑⠠⢄        ┌──────────────────────────────────────────┐
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡊m365hunt⠈⡆                   │ m365hunt                                 │
+⠀⠀⠀⢀⣰⣿⣿⣿⣿⣷⣆⠀⠀⠀⠑⢆⠀⠀⠀⠀⠀⡸⠀⠀        │ Microsoft 365 / Entra ID recon            │
+⠀⠀⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⠀⣰⠏⠑⠂⠂⠒⠂⠀⠀⠀        │ modules: enum | identity | format         │
+⠀⠀⣿⣿⣿⣿⣿⠿⢿⣛⣫⣭⣶⡶⠶⠤⠀⠀⠀⠀⠀⠀⠀⠀        ├──────────────────────────────────────────┤
+⠀⠀⢛⣻⣭⣽⡶⢞⣛⣯⣭⣷⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀        │ author : black3dm0nd                     │
+⢀⠴⠟⣫⠅⣤⣥⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀        │ website: black3dm0nd.com                 │
+⠀⠀⠀⠘⢷⣝⢻⣿⣿⣿⣿⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀        │ github : github.com/black3dm0nd          │
+⠀⠀⠀⠀⣶⣬⣜⠻⠿⣿⠿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀        └──────────────────────────────────────────┘
 ⠀⠀⠀⣰⣿⣿⣿⣿⣷⣶⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⢰⣿⣿⣿⣿⣿⣿⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -22,12 +22,6 @@ username-format detection from public authentication endpoints.
 
 No real password is ever transmitted. Existence probes use a random throwaway
 value and read only metadata and authentication-flow signals.
-
-**Author:** black3dm0nd  
-**Website:** [black3dm0nd.com](https://black3dm0nd.com)  
-**GitHub:** [github.com/black3dm0nd](https://github.com/black3dm0nd)
-
----
 
 ## Features
 
